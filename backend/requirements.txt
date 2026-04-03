@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+spacy
+nltk
+transformers
+pandas
+pdfplumber
+scikit-learn
